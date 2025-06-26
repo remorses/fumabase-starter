@@ -1,0 +1,83 @@
+{
+  "name": "",
+  "navTopLinks": [
+    {
+      "anchor": "",
+      "icon": "",
+      "color": {
+        "light": "",
+        "dark": ""
+      },
+      "hidden": "",
+      "href": ""
+    }
+  ],
+  "description": "",
+  "logo": {
+    "light": "",
+    "dark": "",
+    "href": ""
+  },
+  "favicon": {
+    "light": "",
+    "dark": ""
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "",
+        "href": "",
+        "icon": ""
+      }
+    ],
+    "primary": {
+      "label": "",
+      "href": ""
+    }
+  },
+  "footer": {
+    "socials": {
+      "twitter": "",
+      "github": ""
+    },
+    "links": [
+      {
+        "header": "",
+        "items": [
+          {
+            "label": "",
+            "href": ""
+          }
+        ]
+      }
+    ]
+  },
+  "seo": {
+    "metatags": {
+      "title": "",
+      "keywords": ""
+    }
+  },
+  "redirects": [
+    {
+      "source": "",
+      "destination": "",
+      "permanent": ""
+    }
+  ],
+  "banner": {
+    "content": "",
+    "dismissible": ""
+  },
+  "contextual": {
+    "options": [
+      null
+    ]
+  },
+  "cssVariables": {
+    "--primary-color": "sdf"
+  },
+  "domains": [
+    "some domain"
+  ]
+}
