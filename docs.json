@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "new pr",
   "navTopLinks": [
     {
       "anchor": "",
@@ -78,6 +78,6 @@
     "--primary-color": "sdf"
   },
   "domains": [
-    "some domain"
+    "some domain xxx"
   ]
 }
