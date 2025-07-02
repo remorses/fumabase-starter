@@ -1,0 +1,58 @@
+{
+    // the logo shown in the top left
+    "logo": {
+        "dark": "https://uploads.fumabase.com/site/cmclq67zf0002htommqegrrw4/mediaAssets/3b9b84ed-e1c6-44b4-9cd3-e92e293e6706-chatgpt-1.png",
+        "text": "fumabase",
+        "light": "https://uploads.fumabase.com/site/cmclq67zf0002htommqegrrw4/mediaAssets/3c4642c7-abbf-4b5b-a81b-d47c602ba0c4-chatgpt-1.png",
+        "href": null
+    },
+    "name": "fumabase",
+    "footer": {
+        "links": [
+            {
+                "items": [
+                    {
+                        "href": "https://fumabase.com",
+                        "label": "Fumabase"
+                    }
+                ],
+                "header": "Documentation"
+            }
+        ],
+        "socials": {
+            "github": "https://github.com/remorses",
+            "twitter": "https://x.com/__morse"
+        }
+    },
+    "navbar": {
+        // the links shown in the top right
+        "links": [
+            {
+                "label": "a link to something",
+                "href": "",
+                "icon": "book"
+            },
+            {
+                "label": "another link",
+                "href": null,
+                "icon": null
+            },
+            {
+                "label": "",
+                "href": "",
+                "icon": "sdfsdf"
+            }
+        ]
+    },
+    "siteId": "cmclpd3km0000htompzockfgx",
+    "$schema": "https://fumabase.com/fumabase.json",
+    // to add new domains you can simply add them here, then add a CNAME record to cname.fumabase.com
+    "domains": [
+        "fumabase-2v6e66mi.fumabase.com",
+        "docs.fumabase.com"
+    ],
+    "favicon": {
+        "dark": "/favicon.svg",
+        "light": "/favicon.svg"
+    }
+}
